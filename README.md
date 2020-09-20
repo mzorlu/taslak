@@ -4,3 +4,5 @@ taslak çalışmaları kısa süreliğine kaydetmek için bu alanı kullanabilir
 
 Bu alternatif dosyayı ana dosya ile kıyaslayacağız
 print("nasıl olmuş")
+
+olmadı sanırım
