@@ -1,2 +1,3 @@
 # taslak
-taslak çalışmalar
+hoşgeldin.
+taslak çalışmaları kısa süreliğine kaydetmek için bu alanı kullanabilirsin.
